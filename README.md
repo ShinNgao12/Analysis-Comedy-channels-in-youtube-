@@ -12,18 +12,17 @@ I use youtube api to collect data about 5 famous comedy channels in Viet Nam. Th
 
 You can see in detail data in Data Folder: 
   1. category_video.csv: 
-    - I read source from html-parse and extract it to csv file
-    - This file has 2 columns: 
-      - CategoryId : is similar category id of video when you use youtube api
-      - Category : is main aspect of video in life.
+      - I read source from html-parse and extract it to csv file
+      - This file has 2 columns: 
+          - CategoryId : is similar category id of video when you use youtube api
+          - Category : is main aspect of video in life.
   2. channels.csv:
-    - Some statistical of channels
+      - Some statistical of channels
   3. video_ids.csv: 
-    - The id of video for each channel
+      - The id of video for each channel
   4. information_video.csv:
-    - The information of video as well as : duriation, published time, views, likes,.... 
-  Detail on source code, I present in detail into notebook. You also see via MongoDB Compass, I made an small demo to import data up to
-  MongoDB Cloud. But I hiden my hostname, username and password. Please contact me to get these informations.
+      - The information of video as well as : duriation, published time, views, likes,....
+Detail on source code, I present in detail into notebook. You also see via MongoDB Compass, I made an small demo to import data up to MongoDB Cloud. But I hiden my hostname, username and password. Please contact me to get these informations.
   
   ## Part II: Preprocessing data.
   
