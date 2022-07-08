@@ -3,14 +3,14 @@
 ## Part I : Collect Data by channel id
 If you don't know how to get channel id. This is a solution: https://www.youtube.com/watch?v=D12v4rTtiYM&t=68s.
 
-I use youtube api to collect data about 5 famous comedy channels in Viet Nam. These are: \
+I use youtube api to collect data about 5 famous comedy channels in Viet Nam. These are: 
   1. Đông tây promotion
   2. Vie Channel
   3. FapTV
   4. VTV GiaiTri
   5. Dien Quan Comedy
 
-You can see in detail data in Data Folder: \
+You can see in detail data in Data Folder: 
   1. category_video.csv: 
     - I read source from html-parse and extract it to csv file
     - This file has 2 columns: 
