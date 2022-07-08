@@ -22,6 +22,7 @@ You can see in detail data in Data Folder:
       - The id of video for each channel
   4. information_video.csv:
       - The information of video as well as : duriation, published time, views, likes,....
+
 Detail on source code, I present in detail into notebook. You also see via MongoDB Compass, I made an small demo to import data up to MongoDB Cloud. But I hiden my hostname, username and password. Please contact me to get these informations.
   
   ## Part II: Preprocessing data.
