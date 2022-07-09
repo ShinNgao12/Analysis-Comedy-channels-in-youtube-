@@ -33,10 +33,9 @@ Detail on collecting data by source code, I present in detail into notebook. You
 2. Tags:
     - Although we see values in Tags columns is similar array, it actually string. So I convert raw string (step by step) to array :((
     - After that, we calculate the number of tags and save in `tagCount` column
-3. People get involved in video:
+3. Catogries of video:
+    - Using `category.csv` and merge 2 DataFrame on `CategoryId` 
+4. People get involved in video:
     - I using Descriptions and Titles to find artists who take part in this video.
     - It is so difficult to identify all of artists. I use `pyvi` package which is NLP package supporting for `Vietnamese`.
-  
-
-  
   
