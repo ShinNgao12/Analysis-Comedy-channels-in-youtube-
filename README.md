@@ -22,6 +22,10 @@ You can see in detail data in Data Folder:
       - The id of video for each channel
   4. `information_video.csv`:
       - The information of video as well as : duriation, published time, views, likes,....
+  5. `artists.txt`:
+      - List of Vietnamese artists is provided by Wikipedia.
+  6. `tokenize.png`:
+      - The runtime is quite long so I paste that image for you to evaluate the result.
 
 Detail on collecting data by source code, I present in detail into notebook. You also see via `MongoDB Compass`, I made an small demo to import data up to MongoDB Cloud. But I hid my hostname, username and password. Please contact me to get these informations.
   
@@ -37,5 +41,5 @@ Detail on collecting data by source code, I present in detail into notebook. You
     - Using `category.csv` and merge 2 DataFrame on `CategoryId` 
 4. People get involved in video:
     - I using Descriptions and Titles to find artists who take part in this video.
-    - It is so difficult to identify all of artists. I use `pyvi` package which is NLP package supporting for `Vietnamese`.
+    - It's so difficult to identify all of artists. I use `pyvi` package which is NLP package supporting for `Vietnamese` and the `artists.txt` file.
   
