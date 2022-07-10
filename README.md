@@ -27,7 +27,7 @@ You can see in detail data in Data Folder:
   6. `tokenize.png`:
       - The runtime is quite long so I paste that image for you to evaluate the result.
 
-Detail on collecting data by source code, I present in detail into notebook. You also see via `MongoDB Compass`, I made an small demo to import data up to MongoDB Cloud. But I hid my hostname, username and password. Please contact me to get these informations.
+Detail on collecting data, I present in detail source code into notebook file. You also see data via `MongoDB Compass`, I made an small demo to import data up to MongoDB Cloud. But I hid my hostname, username and password. Please contact me to get these informations.
   
 ## Part II: Preprocessing data.
 
