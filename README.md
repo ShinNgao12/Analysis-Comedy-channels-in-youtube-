@@ -3,7 +3,7 @@
 ## Part I : Collect data by channel id
 If you don't know how to get channel id. This is a solution: `https://www.youtube.com/watch?v=D12v4rTtiYM&t=68s`.
 
-I use youtube api to collect data about 5 famous comedy channels in Viet Nam. These are: 
+I use youtube api to collect data about 5 famous comedy, gameshow and news channels in Viet Nam. These are: 
   1. Dong Tay Promotion
   2. Vie Channel
   3. FapTV
